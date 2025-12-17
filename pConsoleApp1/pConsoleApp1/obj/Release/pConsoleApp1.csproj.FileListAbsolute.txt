@@ -1,0 +1,12 @@
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\bin\Release\pConsoleApp1.exe.config
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\bin\Release\pConsoleApp1.exe
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\bin\Release\pConsoleApp1.pdb
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\bin\Release\Siemens.Engineering.dll
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\bin\Release\Siemens.Engineering.Hmi.dll
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\bin\Release\Siemens.Engineering.xml
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\bin\Release\Siemens.Engineering.Hmi.xml
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\obj\Release\pConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\obj\Release\pConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\obj\Release\pConsole.E10F63AF.Up2Date
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\obj\Release\pConsoleApp1.exe
+C:\Users\复读机\Desktop\pConsoleApp1\pConsoleApp1\obj\Release\pConsoleApp1.pdb
